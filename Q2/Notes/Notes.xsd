@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema id="Notes" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"> 
+    
+    <xs:element name="Notes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element  minOccurs="1" maxOccurs="15" ref="Note" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="Note">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="CNE" />
+                <xs:element ref="FirstName" />
+                <xs:element ref="LastName" />
+                <xs:element ref="ModuleName" />
+                <xs:element ref="Algebre1" />
+                <xs:element ref="Analyse1" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="CNE" type="xs:string" />
+    
+    <xs:element name="FirstName" type="xs:string" />
+    
+    <xs:element name="LastName" type="xs:string" />
+    
+    <xs:element name="ModuleName" type="xs:string" />
+    
+    <xs:element name="Algebre1">
+        <xs:simpleType>
+            <xs:restriction base="xs:decimal">
+                <xs:minInclusive value="0" />
+                <xs:maxInclusive value="20" />
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+    
+    <xs:element name="Analyse1">
+        <xs:simpleType>
+            <xs:restriction base="xs:decimal">
+                <xs:minInclusive value="0" />
+                <xs:maxInclusive value="20" />
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+    
+</xs:schema>
+

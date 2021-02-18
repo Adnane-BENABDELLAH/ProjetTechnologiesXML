@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Notes SYSTEM "Notes.dtd" >
+<Notes xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="Notes.xsd">
+    <Note>
+        <CNE>K101</CNE>
+        <FirstName>Hamid</FirstName>
+        <LastName>SAMAOUI</LastName>
+        <ModuleName>UMLetIHM</ModuleName>
+        <UML>18</UML>
+        <IHM>18</IHM>
+    </Note>
+    
+    <Note>
+        <CNE>K102</CNE>
+        <FirstName>Hanane</FirstName>
+        <LastName>ADAMI</LastName>
+        <ModuleName>UMLetIHM</ModuleName>
+        <UML>19</UML>
+        <IHM>19</IHM>
+    </Note>
+    
+    <Note>
+        <CNE>K103</CNE>
+        <FirstName>Taha</FirstName>
+        <LastName>BOUMLAKI</LastName>
+        <ModuleName>UMLetIHM</ModuleName>
+        <UML>3</UML>
+        <IHM>12</IHM>
+    </Note>
+    
+    <Note>
+        <CNE>K104</CNE>
+        <FirstName>Maati</FirstName>
+        <LastName>BELMAALLEM</LastName>
+        <ModuleName>UMLetIHM</ModuleName>
+        <UML>10</UML>
+        <IHM>12</IHM>
+    </Note>
+    
+    <Note>
+        <CNE>K105</CNE>
+        <FirstName>Fati</FirstName>
+        <LastName>JAMALI</LastName>
+        <ModuleName>UMLetIHM</ModuleName>
+        <UML>20</UML>
+        <IHM>9</IHM>
+    </Note>
+    
+    <Note>
+        <CNE>K106</CNE>
+        <FirstName>Fatine</FirstName>
+        <LastName>AZOUI</LastName>
+        <ModuleName>UMLetIHM</ModuleName>
+        <UML>4.5</UML>
+        <IHM>6.5</IHM>
+    </Note>
+    
+</Notes>
+
+

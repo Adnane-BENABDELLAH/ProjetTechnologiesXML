@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NotesClasse>
+    <Note>
+        <CNE>K128</CNE>
+        <FirstName>Ahmed</FirstName>
+        <LastName>BASSOU</LastName>
+        <Module name='JAVAetXML' note='11'/>
+        <Module name='UMLetIHM' note='12'/>
+        <Module name='AdminProg' note='14'/>
+        <Module name='TechnoDistrib' note='18'/>   
+    </Note>
+    
+    <Note>
+        <CNE>K129</CNE>
+        <FirstName>Basma</FirstName>
+        <LastName>MESBAHI</LastName>
+        <Module name='JAVAetXML' note='18'/>
+        <Module name='UMLetIHM' note='20'/>
+        <Module name='AdminProg' note='18.5'/>
+        <Module name='TechnoDistrib' note='16.5'/>   
+    </Note>
+    
+    <Note>
+        <CNE>K130</CNE>
+        <FirstName>Marwa</FirstName>
+        <LastName>GHANI</LastName>
+        <Module name='JAVAetXML' note='13'/>
+        <Module name='UMLetIHM' note='8.5'/>
+        <Module name='AdminProg' note='5'/>
+        <Module name='TechnoDistrib' note='10.5'/>   
+    </Note>
+</NotesClasse>

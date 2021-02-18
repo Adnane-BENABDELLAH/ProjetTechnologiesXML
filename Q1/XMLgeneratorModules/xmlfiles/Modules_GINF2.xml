@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Modules>
+  <Module>
+    <ModuleName>JAVAetXML</ModuleName>
+    <ElementName1>JAVA</ElementName1>
+    <ElementName2>XML</ElementName2>
+    <Dept_Attachement>SIC</Dept_Attachement>
+  </Module>
+  <Module>
+    <ModuleName>UMLetIHM</ModuleName>
+    <ElementName1>UML</ElementName1>
+    <ElementName2>IHM</ElementName2>
+    <Dept_Attachement>MI</Dept_Attachement>
+  </Module>
+  <Module>
+    <ModuleName>AdminProgramSys</ModuleName>
+    <ElementName1>Administration Systeme</ElementName1>
+    <ElementName2>Programmation Systeme</ElementName2>
+    <Dept_Attachement>MI</Dept_Attachement>
+  </Module>
+  <Module>
+    <ModuleName>TechnologiesDistribuees</ModuleName>
+    <ElementName1>J2EE</ElementName1>
+    <ElementName2>C#</ElementName2>
+    <Dept_Attachement>SIC</Dept_Attachement>
+  </Module>
+</Modules>

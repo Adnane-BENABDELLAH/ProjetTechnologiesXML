@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Students SYSTEM "students.dtd">
+<Students>
+    <Student>
+        <CNE>K101</CNE>
+        <DateofBirth>1/1/1997</DateofBirth>
+        <FirstName>Hamid</FirstName>
+        <LastName>SAMAOUI</LastName>
+        <ClasseName>AP1</ClasseName>
+        <Phone>+212 666148759</Phone>
+        <Email>hamid@gmail.com</Email>
+    </Student>
+    
+    <Student>
+        <CNE>K102</CNE>
+        <DateofBirth>1/1/1997</DateofBirth>
+        <FirstName>Hanane</FirstName>
+        <LastName>SAMAOUI</LastName>
+        <ClasseName>AP1</ClasseName>
+        <Phone>+212 666148759</Phone>
+        <Email>hamid@gmail.com</Email>
+    </Student>
+</Students>

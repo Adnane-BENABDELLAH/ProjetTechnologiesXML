@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Students>
+  <student>
+    <CNE>K116</CNE>
+    <DateofBirth>01/12/1997</DateofBirth>
+    <FirstName>Redouane</FirstName>
+    <LastName>YASSINI</LastName>
+    <ClassseName>GIND1</ClassseName>
+    <Phone>+212 666148751</Phone>
+    <Email>redouane@gmail.com</Email>
+  </student>
+  <student>
+    <CNE>K117</CNE>
+    <DateofBirth>12/07/2002</DateofBirth>
+    <FirstName>Rania</FirstName>
+    <LastName>RIBATI</LastName>
+    <ClassseName>GIND1</ClassseName>
+    <Phone>+212 677578761</Phone>
+    <Email>rania@gmail.com</Email>
+  </student>
+  <student>
+    <CNE>K118</CNE>
+    <DateofBirth>07/04/2001</DateofBirth>
+    <FirstName>Amine</FirstName>
+    <LastName>MORAMONTE</LastName>
+    <ClassseName>GIND1</ClassseName>
+    <Phone>+212 625148762</Phone>
+    <Email>amine@gmail.com</Email>
+  </student>
+</Students>

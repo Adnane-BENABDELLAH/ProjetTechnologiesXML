@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE Students SYSTEM "students.dtd">
+<Students>
+  <student>
+    <CNE>K128</CNE>
+    <DateofBirth>01/10/1999</DateofBirth>
+    <FirstName>Ahmed</FirstName>
+    <LastName>BASSOU</LastName>
+    <ClassseName>GINF2</ClassseName>
+    <Phone>+212 666148751</Phone>
+    <Email>ahmed@gmail.com</Email>
+  </student>
+  <student>
+    <CNE>K129</CNE>
+    <DateofBirth>12/07/2000</DateofBirth>
+    <FirstName>Basma</FirstName>
+    <LastName>MESBAHI</LastName>
+    <ClassseName>GINF2</ClassseName>
+    <Phone>+212 677578761</Phone>
+    <Email>basma@gmail.com</Email>
+  </student>
+  <student>
+    <CNE>K130</CNE>
+    <DateofBirth>07/04/2000</DateofBirth>
+    <FirstName>Marwa</FirstName>
+    <LastName>GHANI</LastName>
+    <ClassseName>GINF2</ClassseName>
+    <Phone>+212 625148762</Phone>
+    <Email>marwa@gmail.com</Email>
+  </student>
+</Students>

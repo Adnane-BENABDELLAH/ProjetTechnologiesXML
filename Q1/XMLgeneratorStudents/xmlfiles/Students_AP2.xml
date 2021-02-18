@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Students>
+  <student>
+    <CNE>K104</CNE>
+    <DateofBirth>01/01/1996</DateofBirth>
+    <FirstName>Fatima</FirstName>
+    <LastName>TENZI</LastName>
+    <ClassseName>AP2</ClassseName>
+    <Phone>+212 666148100</Phone>
+    <Email>fatima@gmail.com</Email>
+  </student>
+  <student>
+    <CNE>K105</CNE>
+    <DateofBirth>12/08/2001</DateofBirth>
+    <FirstName>Rim</FirstName>
+    <LastName>NAZI</LastName>
+    <ClassseName>AP2</ClassseName>
+    <Phone>+212 677578101</Phone>
+    <Email>rim@gmail.com</Email>
+  </student>
+  <student>
+    <CNE>K106</CNE>
+    <DateofBirth>07/03/2000</DateofBirth>
+    <FirstName>Said</FirstName>
+    <LastName>SAIDANI</LastName>
+    <ClassseName>AP2</ClassseName>
+    <Phone>+212 625148011</Phone>
+    <Email>said@gmail.com</Email>
+  </student>
+</Students>

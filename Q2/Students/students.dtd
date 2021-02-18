@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Students (student)+ >
+<!ELEMENT Student (CNE, DateofBirth, FirstName, LastName, ClasseName, Phone, Email) >
+<!ELEMENT CNE (#PCDATA) >
+<!ELEMENT DateofBirth (#PCDATA) >
+<!ELEMENT FirstName (#PCDATA) >
+<!ELEMENT LastName (#PCDATA) >
+<!ELEMENT ClasseName (#PCDATA) >
+<!ELEMENT Phone (#PCDATA) >
+<!ELEMENT Email (#PCDATA) >

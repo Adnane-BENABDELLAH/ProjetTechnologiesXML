@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Notes (Note)+ >
+<!ELEMENT Note (CNE, FirstName, LastName, ModuleName, NoteAvantRatt, NoteApresRatt) >
+<!ELEMENT CNE (#PCDATA) >
+<!ELEMENT FirstName (#PCDATA) >
+<!ELEMENT LastName (#PCDATA) >
+<!ELEMENT ModuleName (#PCDATA) >
+<!ELEMENT NoteAvantRatt (#PCDATA) >
+<!ELEMENT NoteApresRatt (#PCDATA) >

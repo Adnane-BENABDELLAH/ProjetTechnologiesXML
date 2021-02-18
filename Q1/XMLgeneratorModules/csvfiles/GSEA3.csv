@@ -1,0 +1,5 @@
+ModuleName,ElementName1,ElementName2,Dept_Attachement
+VerifDevlopMobile,Developpement Mobile,Verif de sys Temps reel,SIC
+AssocConv/Machine,Association Conv/Machine,QSE,GEI
+DiagnosticSA,Diagnostic des Sys Auto,SYSML UML,SIC
+SysVisionOptoelctro,Sys de Vision du Pixel,Optoelectronique,GEI

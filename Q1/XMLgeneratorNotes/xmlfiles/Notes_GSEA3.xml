@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Notes>
+  <Note>
+    <CNE>K140</CNE>
+    <FirstName>Aziz</FirstName>
+    <LastName>RACHIDI</LastName>
+    <Module1>16.0</Module1>
+    <Module2>16.0</Module2>
+    <Module3>13.0</Module3>
+    <Module4>19.0</Module4>
+    <Moyenne>16.0</Moyenne>
+  </Note>
+  <Note>
+    <CNE>K141</CNE>
+    <FirstName>Sanae</FirstName>
+    <LastName>HAJJI</LastName>
+    <Module1>17.0</Module1>
+    <Module2>20.0</Module2>
+    <Module3>10.0</Module3>
+    <Module4>11.0</Module4>
+    <Moyenne>14.5</Moyenne>
+  </Note>
+  <Note>
+    <CNE>K142</CNE>
+    <FirstName>Imane</FirstName>
+    <LastName>AZZOUZ</LastName>
+    <Module1>18.0</Module1>
+    <Module2>12.0</Module2>
+    <Module3>12.0</Module3>
+    <Module4>5.0</Module4>
+    <Moyenne>11.8</Moyenne>
+  </Note>
+</Notes>

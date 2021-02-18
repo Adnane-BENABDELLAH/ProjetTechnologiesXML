@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Notes SYSTEM "NotesApresRatt.dtd" >
+<?xml-stylesheet type="text/xsl" href="NotesApresRatt.xsl"?>
+<Notes xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="NotesApresRatt.xsd">
+    
+    <Note>
+        <CNE>K103</CNE>
+        <FirstName>Taha</FirstName>
+        <LastName>BOUMLAKI</LastName>
+        <ModuleName>UMLetIHM</ModuleName>
+        <NoteAvantRatt>7.5</NoteAvantRatt>
+        <NoteApresRatt>13</NoteApresRatt>
+    </Note>
+    
+    <Note>
+        <CNE>K104</CNE>
+        <FirstName>Maati</FirstName>
+        <LastName>BELMAALLEM</LastName>
+        <ModuleName>UMLetIHM</ModuleName>
+        <NoteAvantRatt>11</NoteAvantRatt>
+        <NoteApresRatt>12.5</NoteApresRatt>
+    </Note>
+    
+    <Note>
+        <CNE>K106</CNE>
+        <FirstName>Fatine</FirstName>
+        <LastName>AZOUI</LastName>
+        <ModuleName>UMLetIHM</ModuleName>
+        <NoteAvantRatt>5.5</NoteAvantRatt>
+        <NoteApresRatt>18.5</NoteApresRatt>
+    </Note>
+    
+</Notes>
+
+

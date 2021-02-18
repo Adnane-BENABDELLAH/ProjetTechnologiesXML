@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Releve>
+    <Modules>
+        <Module name='JAVAetXML' Moyenne='13'>
+            <Matiere name='JAVA' Note='12' />
+            <Matiere name='XML' Note='14' />
+        </Module>
+        
+        <Module name='UMLetIHM' Moyenne='14'>
+            <Matiere name='UML' Note='18' />
+            <Matiere name='IHM' Note='10' />
+        </Module>
+        
+        <Module name='AdminProgramSys' Moyenne='12.5'>
+            <Matiere name='Administration Systeme' Note='17.5' />
+            <Matiere name='Programmation Systeme' Note='7.5' />
+        </Module>
+        
+        <Module name='TechnologiesDistribuees' Moyenne='10.25'>
+            <Matiere name='J2EE' Note='8.5' />
+            <Matiere name='C#' Note='12' />
+        </Module>
+    </Modules>
+</Releve>

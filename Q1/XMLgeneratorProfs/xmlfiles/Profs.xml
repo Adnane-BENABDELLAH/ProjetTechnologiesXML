@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Profs>
+  <Prof>
+    <FirstName>Abdelouahab</FirstName>
+    <LastName>BENALI</LastName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Phone>+212 610157859</Phone>
+    <Email>abdelouahab@gmail.com</Email>
+  </Prof>
+  <Prof>
+    <FirstName>Moustafa</FirstName>
+    <LastName>Ouazzani</LastName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Phone>+212 610157860</Phone>
+    <Email>moustafa@gmail.com</Email>
+  </Prof>
+  <Prof>
+    <FirstName>Naima</FirstName>
+    <LastName>CHARIFI</LastName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Phone>+212 610157861</Phone>
+    <Email>naima@gmail.com</Email>
+  </Prof>
+  <Prof>
+    <FirstName>Ahmed</FirstName>
+    <LastName>BECHARRI</LastName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Phone>+212 610157862</Phone>
+    <Email>ahmed@gmail.com</Email>
+  </Prof>
+  <Prof>
+    <FirstName>Karima</FirstName>
+    <LastName>CHAARI</LastName>
+    <Dept_Attachement>SIC</Dept_Attachement>
+    <Phone>+212 610157863</Phone>
+    <Email>karima@gmail.com</Email>
+  </Prof>
+  <Prof>
+    <FirstName>Hafida</FirstName>
+    <LastName>EL FARESSI</LastName>
+    <Dept_Attachement>MI</Dept_Attachement>
+    <Phone>+212 610157864</Phone>
+    <Email>hafida@gmail.com</Email>
+  </Prof>
+  <Prof>
+    <FirstName>Youness</FirstName>
+    <LastName>AZZEROUAL</LastName>
+    <Dept_Attachement>GEI</Dept_Attachement>
+    <Phone>+212 610157865</Phone>
+    <Email>youness@gmail.com</Email>
+  </Prof>
+</Profs>

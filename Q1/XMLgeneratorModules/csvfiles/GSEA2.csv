@@ -1,0 +1,5 @@
+ModuleName,ElementName1,ElementName2,Dept_Attachement
+AntennesTNS,Antennes,Traitement Num de Signal,SIC
+CommandesNumeriques,Chaines d'Acquisition,Commandes Numeriques,GEI
+RobotiqueC++,C++,Robotique,MI
+ElectroniquePuissance,Electronique Puissance,Machine tournantes,GEI

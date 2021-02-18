@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Students>
+  <student>
+    <CNE>K101</CNE>
+    <DateofBirth>1/1/1997</DateofBirth>
+    <FirstName>Hamid</FirstName>
+    <LastName>SAMAOUI</LastName>
+    <ClassseName>AP1</ClassseName>
+    <Phone>+212 666148759</Phone>
+    <Email>hamid@gmail.com</Email>
+  </student>
+  <student>
+    <CNE>K102</CNE>
+    <DateofBirth>12/8/2002</DateofBirth>
+    <FirstName>Hanane</FirstName>
+    <LastName>ADAMI</LastName>
+    <ClassseName>AP1</ClassseName>
+    <Phone>+212 677578760</Phone>
+    <Email>hanane@gmail.com</Email>
+  </student>
+  <student>
+    <CNE>K103</CNE>
+    <DateofBirth>7/3/2001</DateofBirth>
+    <FirstName>Taha</FirstName>
+    <LastName>BOUMLAKI</LastName>
+    <ClassseName>AP1</ClassseName>
+    <Phone>+212 625148761</Phone>
+    <Email>taha@gmail.com</Email>
+  </student>
+</Students>

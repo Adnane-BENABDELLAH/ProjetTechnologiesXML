@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema id="Students" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="Students">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Student"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="Student">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="CNE"/>
+                <xs:element ref="DateofBirth"/>
+                <xs:element ref="FirstName"/>
+                <xs:element ref="LastName"/>
+                <xs:element ref="ClasseName"/>
+                <xs:element ref="Phone"/>
+                <xs:element ref="Email"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="CNE" type="xs:string"/>
+    
+    <xs:element name="DateofBirth" type="xs:string"/>
+    
+    <xs:element name="FirstName" type="xs:string"/>
+    
+    <xs:element name="LastName" type="xs:string"/>
+    
+    <xs:element name="ClasseName" type="xs:string"/>
+    
+    <xs:element name="Phone" type="xs:string"/>
+    
+    <xs:element name="Email" type="xs:string"/>
+</xs:schema>
+
+

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmploiDuTemps>
+    <Semaine num="4">
+        <Heure duree="9h00 - 10h30" >
+            <Jour name="Lundi" j="01" m="02">
+                <Cours genre='CM'>CM - 9h00 - 10h30</Cours>
+                <Matiere>CYCLE DE VIE LOGICIEL</Matiere>
+                <Prof>BADIR</Prof>
+                <Salle>À DISTANCE</Salle>
+            </Jour>
+            <Jour name="Mardi" j="02" m="02">
+                <Cours genre='CM'>CM - 9h00 - 10h30</Cours>
+                <Matiere>GESTION DES DONNEES</Matiere>
+                <Prof>FISSOUNE</Prof>
+                <Salle>AMPHI 2</Salle>
+            </Jour>
+            <Jour name="Mercredi" j="03" m="02">
+                <Cours genre='CM'>CM - 9h00 - 10h30</Cours>
+                <Matiere>POO JAVA</Matiere>
+                <Prof>EL HADDAD</Prof>
+                <Salle>B19</Salle>
+            </Jour>
+            <Jour name="Jeudi" j="04" m="02">
+                <Cours genre='TD'>TD - 9h00 - 10h30</Cours>
+                <Matiere>MOO UML</Matiere>
+                <Prof>EL ALAMI</Prof>
+                <Salle>B19</Salle>
+            </Jour>
+            <Jour name="Vendredi" j="05" m="02">
+                <Cours genre='CM'>CM - 9h00 - 10h30</Cours>
+                <Matiere>INTERFACE HOMME MACHINE</Matiere>
+                <Prof>EL ALAMI</Prof>
+                <Salle>À DISTANCE</Salle>
+            </Jour>
+            <Jour name="Samedi" j="06" m="02"/>
+        </Heure>
+        
+        <Heure duree="11h00 - 12h30" >
+            <Jour name="Lundi" j="01" m="02">
+                <Cours genre='CM'>CM - 11h00 - 12h30</Cours>
+                <Matiere>CYCLE DE VIE LOGICIEL</Matiere>
+                <Prof>BADIR</Prof>
+                <Salle>À DISTANCE</Salle>
+            </Jour>
+            <Jour name="Mardi" j="02" m="02">
+                <Cours genre='TP'>TP - 11h00 - 12h30</Cours>
+                <Matiere>GESTION DES DONNEES</Matiere>
+                <Prof>FISSOUNE</Prof>
+                <Salle>AMPHI 2</Salle>
+            </Jour>
+            <Jour name="Mercredi" j="03" m="02">
+                <Cours genre='TP'>TP - 11h00 - 12h30</Cours>
+                <Matiere>POO JAVA</Matiere>
+                <Prof>EL HADDAD</Prof>
+                <Salle>B19</Salle>
+            </Jour>
+            <Jour name="Jeudi" j="04" m="02">
+                <Cours genre='TD'>TD - 11h00 - 12h30</Cours>
+                <Matiere>MOO UML</Matiere>
+                <Prof>EL ALAMI</Prof>
+                <Salle>B19</Salle>
+            </Jour>
+            <Jour name="Vendredi" j="05" m="02">
+                <Cours genre='TD'>TD - 11h00 - 12h30</Cours>
+                <Matiere>INTERFACE HOMME MACHINE</Matiere>
+                <Prof>EL ALAMI</Prof>
+                <Salle>À DISTANCE</Salle>
+            </Jour>
+            <Jour name="Samedi" j="06" m="02"/>
+        </Heure>
+        
+        <Heure duree="14h00 - 15h30" >
+            <Jour name="Lundi" j="01" m="02">
+                <Cours genre='TP'>TP - 14h00 - 15h30</Cours>
+                <Matiere>PROGRAMMATION SYSTEME</Matiere>
+                <Prof>AMECHNOUE</Prof>
+                <Salle>B19 - B21</Salle>
+            </Jour>
+            <Jour name="Mardi" j="02" m="02">
+                <Cours genre='CM'>CM - 14h00 - 15h30</Cours>
+                <Matiere>PROGRAMMATION SYSTEME</Matiere>
+                <Prof>AMECHNOUE</Prof>
+                <Salle>À DISTANCE</Salle>
+            </Jour>
+            <Jour name="Mercredi" j="03" m="02" />
+            
+            
+            <Jour name="Jeudi" j="04" m="02">
+                <Cours genre='CM'>CM - 14h00 - 15h30</Cours>
+                <Matiere>TECHNIQUE DE COMMUNICATIONS</Matiere>
+                <Prof>ZAAMOUMI</Prof>
+                <Salle>À DISTANCE</Salle>
+            </Jour>
+            <Jour name="Vendredi" j="05" m="02">
+                <Cours genre='CM'>CM - 14h00 - 15h30</Cours>
+                <Matiere>ASSURANCE CONTROLE QUALITÉ</Matiere>
+                <Prof>CHICHI</Prof>
+                <Salle>À DISTANCE</Salle>
+            </Jour>
+            <Jour name="Samedi" j="06" m="02"/>
+        </Heure>
+        
+        <Heure duree="16h00 - 17h30" >
+            <Jour name="Lundi" j="01" m="02">
+                <Cours genre='TP'>TP - 14h00 - 15h30</Cours>
+                <Matiere>PROGRAMMATION SYSTEME</Matiere>
+                <Prof>AMECHNOUE</Prof>
+                <Salle>B19 - B21</Salle>
+            </Jour>
+            <Jour name="Mardi" j="02" m="02">
+                <Cours genre='CM'>CM - 14h00 - 15h30</Cours>
+                <Matiere>ESPAGNOL</Matiere>
+                <Prof>LAAMARTI</Prof>
+                <Salle>AMPHI 2</Salle>
+            </Jour>
+            <Jour name="Mercredi" j="03" m="02" />
+            
+            
+            <Jour name="Jeudi" j="04" m="02">
+                <Cours genre='CM'>CM - 14h00 - 15h30</Cours>
+                <Matiere>TECHNIQUE DE COMMUNICATIONS</Matiere>
+                <Prof>ZAAMOUMI</Prof>
+                <Salle>À DISTANCE</Salle>
+            </Jour>
+            <Jour name="Vendredi" j="05" m="02">
+                <Cours genre='CM'>CM - 14h00 - 15h30</Cours>
+                <Matiere>ASSURANCE CONTROLE QUALITÉ</Matiere>
+                <Prof>CHICHI</Prof>
+                <Salle>À DISTANCE</Salle>
+            </Jour>
+            <Jour name="Samedi" j="06" m="02"/>
+        </Heure>
+        
+    </Semaine>
+   
+    <Semaine num="6">
+        <Heure duree="9h00 - 10h30" >
+            <Jour name="Lundi" j="01" m="03">
+                <Cours genre='CM'>CM - 9h00 - 10h30</Cours>
+                <Matiere>CRYPTOGRAPHIE</Matiere>
+                <Prof>LAZAAR</Prof>
+                <Salle>B19</Salle>
+            </Jour>
+            <Jour name="Mardi" j="02" m="03">
+                <Cours genre='CM'>CM - 9h00 - 10h30</Cours>
+                <Matiere>DOT NET C SHARP</Matiere>
+                <Prof>GHAILANI</Prof>
+                <Salle>B20</Salle>
+            </Jour>
+            <Jour name="Mercredi" j="03" m="03">
+                <Cours genre='TP'>TP - 9h00 - 10h30</Cours>
+                <Matiere>DOT NET C SHARP</Matiere>
+                <Prof>GHAILANI</Prof>
+                <Salle>B14</Salle>
+            </Jour>
+            <Jour name="Jeudi" j="04" m="03">
+                <Cours genre='TP'>TP - 9h00 - 10h30</Cours>
+                <Matiere>TRAITEMENT D'IMAGE</Matiere>
+                <Prof>LACHKAR</Prof>
+                <Salle>B14</Salle>
+            </Jour>
+            <Jour name="Vendredi" j="05" m="03">
+                <Cours genre='CM'>CM - 9h00 - 10h30</Cours>
+                <Matiere>GESTION DES DONNEES COMPLEXES</Matiere>
+                <Prof>BADIR</Prof>
+                <Salle>B20</Salle>
+            </Jour>
+            <Jour name="Samedi" j="06" m="03"/>
+        </Heure>
+        
+        <Heure duree="11h00 - 12h30" >
+            <Jour name="Lundi" j="01" m="03">
+                <Cours genre='CM'>CM - 11h00 - 12h30</Cours>
+                <Matiere>CRYPTOGRAPHIE</Matiere>
+                <Prof>LAZAAR</Prof>
+                <Salle>B19</Salle>
+            </Jour>
+            <Jour name="Mardi" j="02" m="03">
+                <Cours genre='TP'>TP - 11h00 - 12h30</Cours>
+                <Matiere>CRYPTOGRAPHIE</Matiere>
+                <Prof>LAZAAR</Prof>
+                <Salle>B20</Salle>
+            </Jour>
+            <Jour name="Mercredi" j="03" m="03">
+                <Cours genre='TP'>TP - 11h00 - 12h30</Cours>
+                <Matiere>DOT NET C SHARP</Matiere>
+                <Prof>GHAILANI</Prof>
+                <Salle>B14</Salle>
+            </Jour>
+            <Jour name="Jeudi" j="04" m="03">
+                <Cours genre='CM'>CM - 11h00 - 12h30</Cours>
+                <Matiere>TRAITEMENT D'IMAGE</Matiere>
+                <Prof>LACHKAR</Prof>
+                <Salle>B14</Salle>
+            </Jour>
+            <Jour name="Vendredi" j="05" m="03">
+                <Cours genre='TP'>TP - 11h00 - 12h30</Cours>
+                <Matiere>GESTION DES DONNEES COMPLEXES</Matiere>
+                <Prof>BADIR</Prof>
+                <Salle>B20</Salle>
+            </Jour>
+            <Jour name="Samedi" j="06" m="03"/>
+        </Heure>
+        
+        <Heure duree="14h00 - 15h30" >
+            <Jour name="Lundi" j="01" m="03">
+                <Cours genre='CM'>CM - 14h00 - 15h30</Cours>
+                <Matiere>BASE DE DONNEES NO SQL</Matiere>
+                <Prof>BADIR</Prof>
+                <Salle>B22</Salle>
+            </Jour>
+            <Jour name="Mardi" j="02" m="03">
+                <Cours genre='CM'>CM - 14h00 - 15h30</Cours>
+                <Matiere>TECHNIQUE ALGORITHMIQUE AVANCEE</Matiere>
+                <Prof>MAOUEN</Prof>
+                <Salle>B14</Salle>
+            </Jour>
+            <Jour name="Mercredi" j="03" m="03">
+                <Cours genre='TP'>TP - 14h00 - 15h30</Cours>
+                <Matiere>MANAGEMENT DE PROJET</Matiere>
+                <Prof>RAHALI</Prof>
+                <Salle>B20</Salle>
+            </Jour>
+            
+            
+            <Jour name="Jeudi" j="04" m="03">
+                <Cours genre='CM'>CM - 14h00 - 15h30</Cours>
+                <Matiere>CONTABILITÉ 2</Matiere>
+                <Prof>SALMOUNE</Prof>
+                <Salle>B14</Salle>
+            </Jour>
+            <Jour name="Vendredi" j="05" m="03">
+                <Cours genre='TD'>TD - 14h00 - 15h30</Cours>
+                <Matiere>TECHNIQUE ALGORITHMIQUE AVANCEE</Matiere>
+                <Prof>MAOUEN</Prof>
+                <Salle>B14</Salle>
+            </Jour>
+            <Jour name="Samedi" j="06" m="03"/>
+        </Heure>
+        
+        <Heure duree="16h00 - 17h30" >
+            <Jour name="Lundi" j="01" m="03">
+                <Cours genre='TP'>TP - 16h00 - 17h30</Cours>
+                <Matiere>BASE DE DONNEES NO SQL</Matiere>
+                <Prof>BADIR</Prof>
+                <Salle>B22</Salle>
+            </Jour>
+            <Jour name="Mardi" j="02" m="03" />
+            
+            
+            <Jour name="Mercredi" j="03" m="03" >
+                <Cours genre='TP'>TP - 16h00 - 17h30</Cours>
+                <Matiere>MANAGEMENT DE PROJET</Matiere>
+                <Prof>RAHALI</Prof>
+                <Salle>B20</Salle>
+            </Jour>
+            
+            
+            <Jour name="Jeudi" j="04" m="03">
+                <Cours genre='CM'>CM - 16h00 - 17h30</Cours>
+                <Matiere>CONTABILITÉ 2</Matiere>
+                <Prof>SALMOUNE</Prof>
+                <Salle>B14</Salle>
+            </Jour>
+            <Jour name="Vendredi" j="05" m="03">
+                <Cours genre='TD'>TD - 16h00 - 17h30</Cours>
+                <Matiere>TECHNIQUE ALGORITHMIQUE AVANCEE</Matiere>
+                <Prof>MAOUEN</Prof>
+                <Salle>B14</Salle>
+            </Jour>
+            <Jour name="Samedi" j="06" m="03"/>
+        </Heure>
+        
+    </Semaine>
+ 
+    
+</EmploiDuTemps>

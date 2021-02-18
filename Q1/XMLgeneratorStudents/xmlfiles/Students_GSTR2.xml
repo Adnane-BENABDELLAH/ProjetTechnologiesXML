@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Students>
+  <student>
+    <CNE>K146</CNE>
+    <DateofBirth>31/05/2001</DateofBirth>
+    <FirstName>Tarik</FirstName>
+    <LastName>CHRIMOUYA</LastName>
+    <ClassseName>GSTR2</ClassseName>
+    <Phone>+212 605148763</Phone>
+    <Email>tarik@gmail.com</Email>
+  </student>
+  <student>
+    <CNE>K147</CNE>
+    <DateofBirth>28/07/1999</DateofBirth>
+    <FirstName>Fatine</FirstName>
+    <LastName>BAKKALI</LastName>
+    <ClassseName>GSTR2</ClassseName>
+    <Phone>+212 662584874</Phone>
+    <Email>fatine@gmail.com</Email>
+  </student>
+  <student>
+    <CNE>K148</CNE>
+    <DateofBirth>31/05/2001</DateofBirth>
+    <FirstName>Soufiane</FirstName>
+    <LastName>GHARBAOUI</LastName>
+    <ClassseName>GSTR2</ClassseName>
+    <Phone>+212 605148159</Phone>
+    <Email>soufiane@gmail.com</Email>
+  </student>
+</Students>

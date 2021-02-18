@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Students>
+  <student>
+    <CNE>K125</CNE>
+    <DateofBirth>01/10/1999</DateofBirth>
+    <FirstName>Roudaina</FirstName>
+    <LastName>DINLAL</LastName>
+    <ClassseName>GINF1</ClassseName>
+    <Phone>+212 666148147</Phone>
+    <Email>roudaina@gmail.com</Email>
+  </student>
+  <student>
+    <CNE>K126</CNE>
+    <DateofBirth>12/07/2000</DateofBirth>
+    <FirstName>Noussaiba</FirstName>
+    <LastName>HADDAD</LastName>
+    <ClassseName>GINF1</ClassseName>
+    <Phone>+212 677578258</Phone>
+    <Email>noussaiba@gmail.com</Email>
+  </student>
+  <student>
+    <CNE>K127</CNE>
+    <DateofBirth>07/04/2000</DateofBirth>
+    <FirstName>Naoufal</FirstName>
+    <LastName>CHAKKOUR</LastName>
+    <ClassseName>GINF1</ClassseName>
+    <Phone>+212 625148369</Phone>
+    <Email>naoufal@gmail.com</Email>
+  </student>
+</Students>

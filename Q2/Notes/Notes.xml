@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Notes SYSTEM "Notes.dtd" >
+<Notes xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="Notes.xsd">
+    <Note>
+        <CNE>K101</CNE>
+        <FirstName>Hamid</FirstName>
+        <LastName>SAMAOUI</LastName>
+        <ModuleName>AlgAnalys1</ModuleName>
+        <Algebre1>8</Algebre1>
+        <Analyse1>14</Analyse1>
+    </Note>
+    
+    <Note>
+        <CNE>K102</CNE>
+        <FirstName>Hanane</FirstName>
+        <LastName>ADAMI</LastName>
+        <ModuleName>AlgAnalys1</ModuleName>
+        <Algebre1>17.5</Algebre1>
+        <Analyse1>18</Analyse1>
+    </Note>
+    
+    <Note>
+        <CNE>K103</CNE>
+        <FirstName>Taha</FirstName>
+        <LastName>BOUMLAKI</LastName>
+        <ModuleName>AlgAnalys1</ModuleName>
+        <Algebre1>12</Algebre1>
+        <Analyse1>12</Analyse1>
+    </Note>
+    
+    <Note>
+        <CNE>K104</CNE>
+        <FirstName>Maati</FirstName>
+        <LastName>BELMAALLEM</LastName>
+        <ModuleName>AlgAnalys1</ModuleName>
+        <Algebre1>4</Algebre1>
+        <Analyse1>2.5</Analyse1>
+    </Note>
+    
+    <Note>
+        <CNE>K105</CNE>
+        <FirstName>Fati</FirstName>
+        <LastName>JAMALI</LastName>
+        <ModuleName>AlgAnalys1</ModuleName>
+        <Algebre1>16</Algebre1>
+        <Analyse1>18.5</Analyse1>
+    </Note>
+    
+    <Note>
+        <CNE>K106</CNE>
+        <FirstName>Fatine</FirstName>
+        <LastName>AZOUI</LastName>
+        <ModuleName>AlgAnalys1</ModuleName>
+        <Algebre1>17.75</Algebre1>
+        <Analyse1>16.5</Analyse1>
+    </Note>
+    
+</Notes>
+
+

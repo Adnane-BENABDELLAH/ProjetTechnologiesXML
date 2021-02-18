@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card  xmlns="http://businesscard.org">
+    <title>CARTE D'ETUDIANT</title>
+    <LastName>SAMAOUI</LastName>
+    <FirstName>Hamid</FirstName>
+    <Apogee>17004857</Apogee>
+    <Cin>KB19756</Cin>
+    <Inscription>Année:2020/2021</Inscription>
+    <logo uri="avatar.png"/>
+</card>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Modules SYSTEM "Modules.dtd" >
+<Modules xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="Modules.xsd">
+    <Module>
+        <ModuleName>AlgAnalys1</ModuleName>
+        <ElementName1>Algebre1</ElementName1>
+        <ElementName2>Analyse1</ElementName2>
+        <Dept_Attachement>SIC</Dept_Attachement>
+    </Module>
+    
+    <Module>
+        <ModuleName>Physique1</ModuleName>
+        <ElementName1>Electorocinetique</ElementName1>
+        <ElementName2>Instrumentation1</ElementName2>
+        <Dept_Attachement>GEI</Dept_Attachement>
+    </Module>
+    
+    <Module>
+        <ModuleName>Chimie</ModuleName>
+        <ElementName1>Atomestique</ElementName1>
+        <ElementName2>Chimie Organique</ElementName2>
+        <Dept_Attachement>SIC</Dept_Attachement>
+    </Module>
+    
+</Modules>
